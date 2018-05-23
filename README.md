@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Himmelstein et al., "Systematic integration of biomedical knowledge prioritizes drugs for repurposing". eLife, 2017. http://dx.doi.org/10.7554/eLife.26726
+
 # Building hetionet: data integration, hetnet permutation, and Neo4j import
 
 [![DOI](https://zenodo.org/badge/14475/dhimmel/integrate.svg)](https://zenodo.org/badge/latestdoi/14475/dhimmel/integrate)
